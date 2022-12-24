@@ -99,7 +99,7 @@ class Snake(Tk):
         return
 
 
-snakeobj = Snake(className="ProjectGurukul Snake Game")
+snakeobj = Snake(className="Snake Game")
 while True:
     snakeobj.update()
     snakeobj.update_idletasks()
