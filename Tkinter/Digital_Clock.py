@@ -14,5 +14,5 @@ def update():
 clock = Label(root, background='black', foreground='white', font=('arial', 40, 'bold'))
 clock.pack()
 update()
-root.title('Digital clock')
+root.title('Digital clock Using Tkinter')
 root.mainloop()
